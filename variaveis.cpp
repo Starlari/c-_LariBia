@@ -16,7 +16,7 @@ using namespace std;
         int y;
         y = 10;
 
-        int soma = x + y; //o "soma" pode ser substituído por "sum", que é em inglês
+        int soma = x + y; //o "soma" pode ser substituído por "sum", traduzindo para o inglês
 
         double peso = 62.3;
 
