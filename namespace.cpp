@@ -10,8 +10,10 @@ namespace first {
 
     int main(){
 
+        /*se eu usar um "Using namespace" dentro desse main, ex: using namespace first, na saída da variável, eu não preciso declarar se é o primeiro, segundo, terceiro e etc*/
+
         int x = 0;
-        std::cout << x;
+        std::cout << first::x;
 
         return 0;
     }
